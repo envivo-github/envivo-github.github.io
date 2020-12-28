@@ -249,11 +249,11 @@ Primary use:
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #5f6cfb;
-  background: -webkit-linear-gradient(bottom, #5f6cfb, #7c51fe);
-  background: -o-linear-gradient(bottom, #5f6cfb, #7c51fe);
-  background: -moz-linear-gradient(bottom, #5f6cfb, #7c51fe);
-  background: linear-gradient(bottom, #5f6cfb, #7c51fe);
+  background: #01010b;
+  background: -webkit-linear-gradient(bottom, #01010b, #444446);
+  background: -o-linear-gradient(bottom, #01010b, #444446);
+  background: -moz-linear-gradient(bottom, #01010b, #444446);
+  background: linear-gradient(bottom, #01010b, #444446);
 }
 
 
@@ -294,7 +294,7 @@ Primary use:
 /*---------------------------------------------*/
 .how-btn {
   padding: 0px 20px;
-  background-color: #222222;
+  background-color: #3c3b3b;
   border-radius: 25px;
   color: #fff;
   position: relative;
@@ -311,11 +311,11 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-  background: #fb2e57;
-  background: -webkit-linear-gradient(top, #f65342, #fb3282);
-  background: -o-linear-gradient(top, #f65342, #fb3282);
-  background: -moz-linear-gradient(top, #f65342, #fb3282);
-  background: linear-gradient(top, #f65342, #fb3282);
+  background: #01010b;
+  background: -webkit-linear-gradient(top, #01010b, #01010b);
+  background: -o-linear-gradient(top, #01010b, #01010b);
+  background: -moz-linear-gradient(top, #01010b, #01010b);
+  background: linear-gradient(top, #01010b, #01010b);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
