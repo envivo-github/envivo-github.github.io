@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Coming Soon 5</title>
+	<title>Envivo</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
@@ -48,7 +48,7 @@
 
 		<div class="flex-col-c w-full p-t-50 p-b-80">
 			<h3 class="l1-txt1 txt-center p-b-10">
-				Coming Soon
+				Envivo Coming Soon
 			</h3>
 
 			<p class="txt-center l1-txt2 p-b-43 wsize2">
@@ -71,9 +71,14 @@
 			</form>			
 		</div>
 
-		<span class="s1-txt2 txt-center">
-			@ 2017 Coming Soon Template. Designed by Colorlib
-		</span>
+		<span id="copyrightOutput" class="s1-txt2 txt-center"></span>
+
+		<script type="text/javascript">
+		var date=new Date(),
+			year = date.getFullYear(),
+			text = "© " + year + " Envivo Sdn Bhd";
+		document.getElementById("copyrightOutput").innerHTML=text;
+		</script>
 
 	</div>
 
