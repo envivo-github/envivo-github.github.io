@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://envivo.com.my/sitemap.xml
